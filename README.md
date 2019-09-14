@@ -8,6 +8,6 @@
 
 ## LeetCode 系列
 
-[leetcode01-两数之和(code_1)](https://github.com/yaodebian/algorithm-blogs/issues/1)
-[leetcode02-两数相加(code_2)](https://github.com/yaodebian/algorithm-blogs/issues/2)
-[leetcode04-寻找两个有序数组的中位数(code_3)](https://github.com/yaodebian/algorithm-blogs/issues/3)
+- [leetcode01-两数之和(code_1)](https://github.com/yaodebian/algorithm-blogs/issues/1)
+- [leetcode02-两数相加(code_2)](https://github.com/yaodebian/algorithm-blogs/issues/2)
+- [leetcode04-寻找两个有序数组的中位数(code_3)](https://github.com/yaodebian/algorithm-blogs/issues/3)
