@@ -6,8 +6,12 @@
 
 以下，我们将从以下几个方面来进行探索、总结、交流与学习
 
-## LeetCode 系列
+## LeetCode 系列(LeetCode series)
 
 - [leetcode01-两数之和(code_1)](https://github.com/yaodebian/algorithm-blogs/issues/1)
 - [leetcode02-两数相加(code_2)](https://github.com/yaodebian/algorithm-blogs/issues/2)
 - [leetcode04-寻找两个有序数组的中位数(code_3)](https://github.com/yaodebian/algorithm-blogs/issues/3)
+
+## 数据结构系列(data structure series)
+
+- [数据结构之——数组(code_1)](https://github.com/yaodebian/algorithm-blogs/issues/4)
