@@ -15,3 +15,4 @@
 ## 数据结构系列(data structure series)
 
 - [数据结构之——数组(code_1)](https://github.com/yaodebian/algorithm-blogs/issues/4)
+- [数据结构之——链表一（链表结构）【更新中】(code_2)](https://github.com/yaodebian/algorithm-blogs/issues/5)
